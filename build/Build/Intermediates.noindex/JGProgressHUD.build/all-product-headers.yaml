@@ -1,0 +1,180 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Volumes/Work/iOS/EA/build/Build/Products/Debug-appletvos/JGProgressHUD.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JGProgressHUD-Defines.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUD-Defines.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUD-Swift.h",
+          'external-contents': "/Volumes/Work/iOS/EA/build/Build/Products/Debug-appletvos/JGProgressHUD.framework/Headers/JGProgressHUD-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUD.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUD.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDAnimation.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDErrorIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDErrorIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDFadeAnimation.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDFadeAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDFadeZoomAnimation.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDFadeZoomAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDImageIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDImageIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDIndeterminateIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDIndeterminateIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDPieIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDPieIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDRingIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDRingIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDShadow.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDShadow.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDSuccessIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDSuccessIndicatorView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/Work/iOS/EA/build/Build/Products/Debug-appletvos/JGProgressHUD.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/Work/iOS/EA/build/Build/Intermediates.noindex/JGProgressHUD.build/Debug-appletvos/JGProgressHUD-tvOS.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/Work/iOS/EA/build/Build/Products/Debug-iphoneos/JGProgressHUD.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JGProgressHUD-Defines.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUD-Defines.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUD-Swift.h",
+          'external-contents': "/Volumes/Work/iOS/EA/build/Build/Products/Debug-iphoneos/JGProgressHUD.framework/Headers/JGProgressHUD-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUD.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUD.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDAnimation.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDErrorIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDErrorIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDFadeAnimation.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDFadeAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDFadeZoomAnimation.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDFadeZoomAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDImageIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDImageIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDIndeterminateIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDIndeterminateIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDPieIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDPieIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDRingIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDRingIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDShadow.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDShadow.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDSuccessIndicatorView.h",
+          'external-contents': "/Users/sergey/Downloads/JGProgressHUD-master/JGProgressHUD/JGProgressHUD/JGProgressHUDSuccessIndicatorView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/Work/iOS/EA/build/Build/Products/Debug-iphoneos/JGProgressHUD.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/Work/iOS/EA/build/Build/Intermediates.noindex/JGProgressHUD.build/Debug-iphoneos/JGProgressHUD-iOS.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

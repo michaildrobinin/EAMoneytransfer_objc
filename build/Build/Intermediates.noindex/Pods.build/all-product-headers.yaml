@@ -1,0 +1,93 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Volumes/Work/iOS/EA/build/Build/Products/Debug-iphoneos/DownPicker",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DownPicker.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/DownPicker/Pod/Classes/DownPicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIDownPicker.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/DownPicker/Pod/Classes/UIDownPicker.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/Work/iOS/EA/build/Build/Products/Debug-iphoneos/JGProgressHUD",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JGProgressHUD-Defines.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUD-Defines.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUD.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUD.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDAnimation.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUDAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDErrorIndicatorView.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUDErrorIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDFadeAnimation.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUDFadeAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDFadeZoomAnimation.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUDFadeZoomAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDImageIndicatorView.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUDImageIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDIndeterminateIndicatorView.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUDIndeterminateIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDIndicatorView.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUDIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDPieIndicatorView.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUDPieIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDRingIndicatorView.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUDRingIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDShadow.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUDShadow.h"
+        },
+        {
+          'type': 'file',
+          'name': "JGProgressHUDSuccessIndicatorView.h",
+          'external-contents': "/Volumes/Work/iOS/EA/Pods/JGProgressHUD/JGProgressHUD/JGProgressHUD/JGProgressHUDSuccessIndicatorView.h"
+        }
+      ]
+    }
+  ]
+}

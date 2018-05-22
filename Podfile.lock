@@ -1,0 +1,18 @@
+PODS:
+  - Backendless (4.0.22)
+  - DownPicker (0.1.34)
+  - JGProgressHUD (2.0)
+
+DEPENDENCIES:
+  - Backendless
+  - DownPicker
+  - JGProgressHUD
+
+SPEC CHECKSUMS:
+  Backendless: a4f75d066f2e5f01d91d6f1256b1ce2dd459781f
+  DownPicker: c00ea63f08ae82116cc93d0eba74e86bf3d4c68e
+  JGProgressHUD: c402c0f41fc291ca7e33bba2f999118d9682dd9c
+
+PODFILE CHECKSUM: 58bbba8c9fa8e4a17c2f9f5752bc7f6c971bacee
+
+COCOAPODS: 1.4.0
